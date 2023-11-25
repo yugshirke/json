@@ -1,0 +1,267 @@
+[
+    {
+        "__comment": "Bats"
+    },
+    {
+        "id": 1,
+        "name": "bat1",
+        "category_id": 1,
+        "age": "5+",
+        "image": "bat1.jpg",
+        "info": "HIPPO SPORTZ Red Designed Smasher Kashmir Willow Bat with Cover, Short Handle Bat Size 1"
+    },
+    {
+        "id": 1,
+        "name": "bat2",
+        "category_id": 1,
+        "age": "5+",
+        "image": "bat2.jpg",
+        "info": "Boldfit Turf Bat Cricket for Adults Plastic Tennis Cricket Bat for Mens Heavy Plastic Cricket - Black"
+    },
+    {
+        "id": 1,
+        "name": "bat3",
+        "category_id": 1,
+        "age": "5+",
+        "image": "bat3.jpg",
+        "info": "Victory India Best Beginners to Professional (Full Size-6 No.) Panther Cricket Bat/Hard "
+    },
+    {
+        "id": 1,
+        "name": "bat4",
+        "category_id": 1,
+        "age": "5+",
+        "image": "bat4.jpg",
+        "info": "RYLAN Turf Bat Cricket for Adults Plastic Tennis Bat for Mens Heavy Plastic Cricket Bats (Black)"
+    },
+
+ 
+
+    {
+        "__comment": "Helmets"
+    },
+    {
+        "id": 2,
+        "name": "H1",
+        "category_id": 2,
+        "age": "5+",
+        "image": "H1.jpg",
+        "info": "Shrey Match 2.0 Steel Cricket Helmet with 4 Round Velcro Sets "
+    },
+    {
+        "id": 2,
+        "name": "H2",
+        "category_id": 2,
+        "age": "5+",
+        "image": "H2.jpg",
+        "info": "Optimus® Ninza Cricket Helmet with Adjustable Steel Grills & Med "
+    },
+    {
+        "id": 2,
+        "name": "H3",
+        "category_id": 2,
+        "age": "5+",
+        "image": "H3.jpg",
+        "info": " Shrey Star Junior Steel Cricket Helmet with 4 Round Velcro Sets"
+    },
+    
+        {
+            "id": 2,
+            "name": "H4",
+            "category_id": 2,
+            "age": "5+",
+            "image": "H4.jpg",
+            "info": " Shrey Match 2.0 Steel Cricket Helmet with 4 Round Velcro Sets "
+        },
+
+
+ 
+    {
+        "__comment": "Gloves"
+    },
+    {
+        "id": 3,
+        "name": "g1",
+        "category_id": 3,
+        "age": "5+",
+        "image": "g1.jpg",
+        "info": " Kobo CTG-02 Weight Lifting  Gloves "
+    },
+    {
+        "id": 3,
+        "name": "g2",
+        "category_id": 3,
+        "age": "5+",
+        "image": "g2.jpg",
+        "info": "Touch Screen Gloves for  M & F "
+    },
+    {
+        "id": 3,
+        "name": "g3",
+        "category_id": 3,
+        "age": "5+",
+        "image": "g3.jpg",
+        "info": "Touch Screen Gloves for  M & F "
+    },
+    {
+        "id": 3,
+        "name": "g4",
+        "category_id": 3,
+        "age": "5+",
+        "image": "g4.jpg",
+        "info": "Touch Screen Gloves for  M & F "
+    },
+ 
+
+    {
+        "__comment": "Shoes"
+    },
+    {
+        "id": 4,
+        "name": "s1",
+        "category_id": 4,
+        "age": "5+",
+        "image": "s1.jpg",
+        "info": " Mens Crihase 23 Cricket Shoe"
+    },
+    {
+        "id": 4,
+        "name": "s2",
+        "category_id": 4,
+        "age": "5+",
+        "image": "s2.jpg",
+        "info": "Mens Crinu 23 Cricket Shoe "
+    },
+    {
+        "id": 4,
+        "name": "s3",
+        "category_id": 4,
+        "age": "5+",
+        "image": "s3.jpg",
+        "info": " Mens Crinu 23 Cricket Shoe"
+    },
+    {
+        "id": 4,
+        "name": "s4",
+        "category_id": 4,
+        "age": "5+",
+        "image": "s4.jpg",
+        "info": "Mens Crinu 23 Cricket Shoe "
+    },
+
+    
+
+
+    {
+        "__comment": "Jersey"
+    },
+    {
+        "id": 5,
+        "name": "Shirt1",
+        "category_id": 5,
+        "age": "5+",
+        "image": "Shirt1.jpg",
+        "info": "Cricket Training Jersey T-Shirt Full Sleeve Creamy White Apex "
+    },
+    {
+        "id": 5,
+        "name": "Shirt2",
+        "category_id": 5,
+        "age": "5+",
+        "image": "Shirt2.jpg",
+        "info": "Compression T-Shirt, Top Full Sleeve Plain Athletic Fit  "
+    },
+    {
+        "id": 5,
+        "name": "Shirt3",
+        "category_id": 5,
+        "age": "5+",
+        "image": "Shirt3.jpg",
+        "info": "Compression T-Shirt, Top Full Sleeve Plain Athletic Fit  "
+    },
+    {
+        "id": 5,
+        "name": "Shirt4",
+        "category_id": 5,
+        "age": "5+",
+        "image": "Shirt4.jpg",
+        "info": "Compression T-Shirt, Top Full Sleeve Plain Athletic Fit  "
+    },
+
+ 
+
+
+    {
+        "__comment": "Guards"
+    },
+    {
+        "id": 6,
+        "name": "Supporter1",
+        "category_id": 6,
+        "age": "5+",
+        "image": "Supporter1.jpg",
+        "info": "Armor Cricket Abdominal perfect Guard "
+    },
+    {
+        "id": 6,
+        "name": "Supporter2",
+        "category_id": 6,
+        "age": "5+",
+        "image": "Supporter2.jpg",
+        "info": "DSC Attitude Cricket Abdominal Guard "
+    },
+    {
+        "id": 6,
+        "name": "Supporter3",
+        "category_id": 6,
+        "age": "5+",
+        "image": "Supporter3.jpg",
+        "info": "Armor Cricket Abdominal perfect Guard "
+    },
+    {
+        "id": 6,
+        "name": "Supporter4",
+        "category_id": 6,
+        "age": "5+",
+        "image": "Supporter4.jpg",
+        "info": "DSC Attitude Cricket Abdominal Guard "
+    },
+
+    
+
+    {
+        "__comment": "Footballs"
+    },
+    {
+        "id": 7,
+        "name": "Football1",
+        "category_id": 7,
+        "age": "5+",
+        "image": "Football1.jpg",
+        "info": "Prokick Precision Machine Stitched 32 Panel Football, Size 5 (White/Blue) "
+    },
+    {
+        "id": 7,
+        "name": "Bootball2",
+        "category_id": 7,
+        "age": "5+",
+        "image": "Bootball2.jpg",
+        "info": ">Cosco Delta Force Bootball Hand Stitched 32 Panel PU Football Size 5 (Yellow/Black) "
+    },
+    {
+        "id": 7,
+        "name": "Football3",
+        "category_id": 7,
+        "age": "5+",
+        "image": "Football3.jpg",
+        "info": " Prokick Blaze All Hand Stitched 32 Panel PU Football, Size 5 (White/Orange/Black)"
+    },
+    {
+        "id": 7,
+        "name": "Football4",
+        "category_id": 7,
+        "age": "5+",
+        "image": "Football4.jpg",
+        "info": "Prokick Blaze All Hand Stitched 32 Panel PU Football, Size 5 (White/Orange/Black) "
+    }
+]
